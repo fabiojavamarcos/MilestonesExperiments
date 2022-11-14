@@ -1,17 +1,17 @@
 Participant,start,issue,problem,folder,file,class,method,line,solution,implement,end,changed issue,changed folder,changed file,changed class,changed method,right folder,right file,right class,right method,right lines,Correctness Explanation,correct,sound solution,alternative answer,Gift card requested,Gift card received,group,issue_number,Control YOE,Control Contribs,Alt YOE,Alt Contrib
 ItaloSantos,2:35 PM,17,17,18,18,19,21,21,24,43,45,1,0,0,0,0,y,y,y,n ,n ,Participant only had 1 of two methods identified. Only one line was changed which did not fix the issue.,n,n,,y,y,Control,5679,4,0,,
 FelipeFelixSantos@gmail.com,10:15 AM,2,3,44,45,45,46,47,48,50,55,0,1,0,0,0,y,y,y,y,y,Completed the code changes in the right place correctly.,y,y,,y,y,Treatment,5485,,,7,0
-gk325@nau.edu,3:09:00 PM,1,6,56,56,58,,,,,58,0,2,2,0,0,n,n,n,n ,n ,He did not find the correct folder or any other items.,n,y,,y,y,Treatment,4612,3,0,,
+gk325@nau.edu,3:09:00 PM,1,6,56,56,58,60,60,60,60,58,0,2,2,0,0,n,n,n,n ,n ,He did not find the correct folder or any other items.,n,y,,y,y,Treatment,4612,3,0,,
 sb3292@nau.edu,4:21:00 PM,3,19,23,23,23,27,27,46,46,46,0,0,0,0,0,n,n,n,n ,n ,He did not find the correct folder or any other items.,n,y,y,y,y,Treatment,5194,,,9,9
 gummadisk99@gmail.com,1:20 PM,4,14,38,38,38,41,41,50,56,56,0,0,0,0,0,n,n,n,n ,n ,He did not find the correct folder or any other items.,n,n,,y,y,Control,4612,1,1,,
 hk486@nau.edu,3:22 PM,20,25,31,31,31,32,33,37,38,38,0,0,0,0,0,n,n,n,n ,n ,He did not find the correct folder or any other items.,n,y,y,y,y,Treatment,5069,,,4,2
 ap3535@nau.edu,4:17 PM,6,12,27,27,29,40,41,43,54,54,0,1,2,2,1,,y,,,,,y,y,,y,y,Control,5485,,,,
-kv582@nau.edu,12:44 PM,11,19,,,,,,,,35,0,0,0,0,0,,n,n,n,n,He did not find the correct folder or any other items.,n,n,,y,y,Control,5485,1,1,,
+kv582@nau.edu,12:44 PM,11,19,60,60,60,60,60,60,60,35,0,0,0,0,0,,n,n,n,n,He did not find the correct folder or any other items.,n,n,,y,y,Control,5485,1,1,,
 vg588@nau.edu,4:34 PM,5,25,35,35,35,37,37,37,46,46,0,0,0,0,0,,n,n,n,n,He did not find the correct folder or any other items.,n,y,,y,y,Treatment,5485,,,2,0
 ma3932@nau.edu,4:13 PM,7,33,43,43,43,43,43,43,43,58,0,0,0,0,0,,y,y,y,y,Completed the code changes in the right place. ,y,y,,y,,Treatment,5485,,,5,1
-"nk545@nau,edu",3:14 PM,7,22,25,25,37,46,57,57,,57,0,0,0,0,0,,n,n,n,n,He did not find the correct folder or any other items.,n,y,y,y,,Control,5069,2,2,,
-sm4332@nau.edu,3:12 PM,22,22,31,31,31,31,,,,51,0,0,0,0,0,,n,n,n,n,He did not find the correct folder or any other items.,n,n,,y,,Control,4612,5,0,,
-jk2396@nau.edu,5:03 PM,8,39,44,47,47,,,48,,56,0,0,0,0,0,,n,n,n,n,He did not find the correct folder or any other items.,n,y,,y,,Treatment,5069,,,1,0
-rm2878@nau.edu,1:03 PM,3,27,45,45,45,50,52,59,,60,0,1,1,1,0,,n,n,n,n,He did not find the correct folder or any other items.,n,y,y,y,,Treatment,5679,,,2,0
+"nk545@nau,edu",3:14 PM,7,22,25,25,37,46,57,57,60,57,0,0,0,0,0,,n,n,n,n,He did not find the correct folder or any other items.,n,y,y,y,,Control,5069,2,2,,
+sm4332@nau.edu,3:12 PM,22,22,31,31,31,31,60,60,60,51,0,0,0,0,0,,n,n,n,n,He did not find the correct folder or any other items.,n,n,,y,,Control,4612,5,0,,
+jk2396@nau.edu,5:03 PM,8,39,44,47,47,60,60,48,60,56,0,0,0,0,0,,n,n,n,n,He did not find the correct folder or any other items.,n,y,,y,,Treatment,5069,,,1,0
+rm2878@nau.edu,1:03 PM,3,27,45,45,45,50,52,59,60,60,0,1,1,1,0,,n,n,n,n,He did not find the correct folder or any other items.,n,y,y,y,,Treatment,5679,,,2,0
 st2364@nau.edu,3:09 PM,5,10,56,56,56,56,56,56,56,56,0,0,0,0,0,,n,n,n,n,He did not find the correct folder or any other items.,n,n,,y,,Control,5485,,,,
 klp468@nau.edu,12:18 PM,6,44,59,60,60,60,60,60,60,60,0,0,0,0,0,n,n,n,n,n,He did not find the correct folder or any other items.,n,y,,,,Control,5069,4,1,,
