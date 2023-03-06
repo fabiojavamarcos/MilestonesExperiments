@@ -15,6 +15,10 @@ library(rcompanion)
 #Unconfident, Not confident (can manage, but difficult), Average, Confident, Very Confident (fluent)
 #Top row Control, bottom row treament
 
+#No values for Unconfident and Very Confident in each group
+#Counts: Control: 2 Not confident, 4 average, 0 confident 
+#Treatment: 3 Not confident, 3 average, 2 confident
+
 confMatrix <- matrix(c(2, 4, 0, 3, 3, 2), nrow = 2);
 cramerV(confMatrix)
 ```
@@ -26,6 +30,7 @@ cramerV(confidentMatrix)
 chisq.test(confidentMatrix)
 ```
 ```{r}
+#Fisher is used for smaller sample size to determine stat difference between groups
 fisher.test(confidentMatrix)
 ```
 
@@ -33,7 +38,7 @@ fisher.test(confidentMatrix)
 
 
 ```{r}
-#create 2x3 table
+#create 2x3 table?????????????? 3/5 not sure what this is doing.
 data = matrix(c(6, 9, 8, 5, 12, 9), nrow = 2)
 
 #view dataset
