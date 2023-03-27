@@ -1,0 +1,4 @@
+violin <- read.csv("violinMilestones.csv")
+beanplot(y~ label, names=c("labels"), ll = 0.04, data = violin, main = "", ylab = "AUC Metric", side = "both",  border = NA, col = list("black", c("grey", "white")))#
+legend(cex = 0.75, "bottomleft", fill = c("black", "grey"), legend = c("Control", "Treatment"))
+library(vioplot)
