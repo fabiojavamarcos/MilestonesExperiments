@@ -65,7 +65,7 @@ violin <- read.csv("/Users/fd252/Dropbox/NAU/Research3/survey/surveyPUC/violin/v
 
 violin <- read.csv("violinMilestones.csv")
 
-beanplot(y~ label, names=c("labels"), ll = 0.04, data = violin, main = "", ylab = "AUC Metric", side = "both",  border = NA, col = list("black", c("grey", "white")))
+beanplot(y~ label, names=c("groups"), ll = 0.04, data = violin, main = "", ylab = "", xlab = "", side = "both",  border = NA, col = list("black", c("grey", "white")))
 legend(cex = 0.75, "bottomleft", fill = c("black", "grey"), legend = c("Control", "Treatment"))
 
 
