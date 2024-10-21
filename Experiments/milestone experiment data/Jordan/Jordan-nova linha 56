@@ -1,0 +1,2 @@
+nova linha 56
+entry.getLatexFreeField(StandardFiel.Bibliographic).ifPresent(bibliographic -> uriBuilder.addParameter(param: "query.bibliographic", bibliographic));

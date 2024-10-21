@@ -1,0 +1,1 @@
+Line 52, class getURLForEntry, replace "query.title" with "query.bibliographic" and check if the deprecated exception goes away.
