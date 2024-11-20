@@ -1,0 +1,63 @@
+,folder,file,class,method,line,solution
+0,"('Control', 0     18.0
+21    23.0
+23    11.0
+24    21.0
+Name: folder, dtype: float64)","('Control', 0     18.0
+21    24.0
+23    11.0
+24    21.0
+Name: file, dtype: float64)","('Control', 0     19.0
+21    24.0
+23    11.0
+24    22.0
+Name: class, dtype: float64)","('Control', 21    24.0
+23    12.0
+24    22.0
+Name: method, dtype: float64)","('Control', 21    24.0
+23    12.0
+24    22.0
+Name: line, dtype: float64)","('Control', 10    57.0
+15    60.0
+21    25.0
+23    59.0
+24    23.0
+Name: solution, dtype: float64)"
+1,"('Treatment', 1     44.0
+9     43.0
+17    48.0
+20    18.0
+25    15.0
+26    23.0
+Name: folder, dtype: float64)","('Treatment', 1     45.0
+9     43.0
+20    18.0
+25    15.0
+26    24.0
+Name: file, dtype: float64)","('Treatment', 1     45.0
+9     43.0
+20    18.0
+25    15.0
+26    24.0
+Name: class, dtype: float64)","('Treatment', 1     46.0
+9     43.0
+20    18.0
+25    15.0
+26    27.0
+Name: method, dtype: float64)","('Treatment', 1     47.0
+9     43.0
+20    18.0
+25    15.0
+26    27.0
+Name: line, dtype: float64)","('Treatment', 1     48.0
+3     46.0
+5     37.0
+8     37.0
+9     43.0
+12    48.0
+13    59.0
+20    23.0
+22    60.0
+25    16.0
+26    27.0
+Name: solution, dtype: float64)"
